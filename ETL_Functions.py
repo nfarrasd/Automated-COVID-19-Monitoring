@@ -2,6 +2,8 @@
 This file contains function that is used in order to
 clean the data extracted in the 'Automated COVID-19 Monitoring'
 by Moch Nabil Farras Dhiya (10120034)
+
+The dataset used in this project is obtained from WHO official website: https://covid19.who.int/data
 """
 
 # Connect to local
