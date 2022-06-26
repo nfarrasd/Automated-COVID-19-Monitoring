@@ -13,7 +13,7 @@ The data used in this project is obtained from WHO official Website, which can b
 3.   Upload the final data to Local MySQL DB
 4.   Connect Tableau with Local MySQL DB
 5.   Visualize the data for end-users by Tableau
-6.   Automate the whole process using Windows Task Scheduler :D
+6.   Automate the whole process using Windows Task Scheduler :D (so that we only need to conduct daily monitoring on the Tableau dashboard for business purposes)
 
 **NOTE**:
 1. In this project, I use on-site database in order to minimize the cost as Cloud Databases are mostly paid.
