@@ -5,7 +5,7 @@ as a mean to implement my automation and ETL process using Python and SQL.
 Final data visualization on COVID-19 data from the ETL process is also given in this project using Tableau.
 
 # Dashboard
-The dashboard made can be obtained here: https://public.tableau.com/app/profile/moch.nabil.farras.dhiya
+The dashboard made can be seen here: https://public.tableau.com/app/profile/moch.nabil.farras.dhiya
 
 # Dataset
 The data used in this project is obtained from WHO official Website, which can be accessed here: https://covid19.who.int/data
