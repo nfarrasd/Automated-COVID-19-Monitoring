@@ -1359,7 +1359,7 @@ for i in range(len(dfs)):
         to_sql_error = logging.handlers.SMTPHandler(mailhost = ("smtp.example.com", 25),
                                                     fromaddr = "nabilfarras50@gmail.com", 
                                                     toaddrs = "nabilfarras923@gmail.com",
-                                                    subject = u"COVID-19 Automation to SQL Error ({})!".format(value))
+                                                    subject = u"COVID-19 Automation to SQL Error ({})!".format(dfs[i]))
 
         logger = logging.getLogger()
         logger.addHandler(to_sql_error)
